@@ -4,7 +4,7 @@ jquery.Vidplayer
 ## jQuery Video Player#
 
 
-jQuery plugin for loading/playing YouTube and Vimeo videos and use a Finished event listener.
+jQuery plugin for loading/playing YouTube and Vimeo videos and use an event listener when a video is finished.
 
 
 *Parameters*
